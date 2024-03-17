@@ -24,3 +24,7 @@ Experience
 Publications
 ------
 In progress...
+
+Projects
+------
+In progress...
