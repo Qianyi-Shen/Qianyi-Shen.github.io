@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Qianyi Shen. I am a Master of Professional Studies student in Applied Statistics at Cornell University.
+My name is Qianyi Shen. I am a Master of Professional Studies student in Applied Statistics at Cornell University. I am interested in Computational Social Science.
 
 Education
 ------
