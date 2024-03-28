@@ -5,10 +5,10 @@ main:
   - title: "Experience"
 
 
-  #- title: "Publications"
-    #url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-  - title: "Projects"
+  #- title: "Projects"
 
   #- title: "Talks"
     #url: /talks/    
