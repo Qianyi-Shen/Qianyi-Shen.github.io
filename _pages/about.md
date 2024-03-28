@@ -8,19 +8,3 @@ redirect_from:
 ---
 
 My name is Qianyi Shen. I am an MPS student in Applied Statistics at Cornell University. My research interest is in Computational Social Science. I obtained my bachelor's degree in Mathematics (Statistics) from Arizona State University.
-
-Experience
-------
-2024.01 - Present Research Assistant, Cornell University
-
-2022.08 - Present Research Assistant, Arizona State University
-
-2022.08 - 2023.04 Teaching Assitant, Arizona State University
-
-Publications
-------
-In progress...
-
-Projects
-------
-In progress...
