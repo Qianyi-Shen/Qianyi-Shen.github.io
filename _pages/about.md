@@ -7,13 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Qianyi Shen. I am an MPS student in Applied Statistics at Cornell University. My research interest is in Computational Social Science.
-
-Education
-------
-2023.08 - 2024.05 Master of Professional Studies in Applied Statistics, Cornell University
-
-2020.08 - 2023.05 Bachelor of Science in Mathematics (Statistics), Arizona State University
+My name is Qianyi Shen. I am an MPS student in Applied Statistics at Cornell University. My research interest is in Computational Social Science. I obtained my bachelor's degree in Mathematics (Statistics) from Arizona State University.
 
 Experience
 ------
