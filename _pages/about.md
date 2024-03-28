@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Qianyi Shen. I am an MPS student in Applied Statistics at Cornell University. I am interested in Computational Social Science.
+My name is Qianyi Shen. I am an MPS student in Applied Statistics at Cornell University. My research interest is in Computational Social Science.
 
 Education
 ------
