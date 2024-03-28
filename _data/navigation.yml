@@ -5,7 +5,7 @@ main:
   - title: "Experience"
 
 
-  - title: "Publications"
+  #- title: "Publications"
     #url: /publications/
 
   - title: "Projects"
