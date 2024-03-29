@@ -16,20 +16,16 @@ Education
 
 Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2022 - Present: Research Assistant
+  * Arizona State University
+  * Topic: Bayesian Application in Nuclear Physics
+  * Supervisor: Professor Shuang Zhou
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun 2023 - Jul 2023: Statistical Analyst
+  * Tigermed
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2022 - May 2023: Teaching Assistant
+  * Arizona State University
 
 Publications
 ======
