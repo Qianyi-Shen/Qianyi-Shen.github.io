@@ -41,8 +41,9 @@ Experience
   #* Sub-skill 2.3
 #* Skill 3
 
-#Publications
-#======
+Publications
+======
+In progress...
   #<ul>{% for post in site.publications reversed %}
     #{% include archive-single-cv.html %}
   #{% endfor %}</ul>
@@ -59,6 +60,6 @@ Experience
     #{% include archive-single-cv.html %}
   #{% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
