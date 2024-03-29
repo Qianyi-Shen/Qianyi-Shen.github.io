@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.P.S. in Applied Statistics, Cornell University, Aug 2023 - May 2024
+* B.S. in Mathematics (Statistics), Arizona State University, Aug 2020 - May 2023
 
 Experience
 ======
