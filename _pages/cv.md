@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.P.S. in Applied Statistics, Cornell University, Aug 2023 - May 2024
-* B.S. in Mathematics (Statistics), Arizona State University, Aug 2020 - May 2023
+* Aug 2023 - May 2024 M.P.S. in Applied Statistics, Cornell University
+* Aug 2020 - May 2023 B.S. in Mathematics (Statistics), Arizona State University
 
 Experience
 ======
@@ -30,35 +30,7 @@ Experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-  #* Sub-skill 2.1
-  #* Sub-skill 2.2
-  #* Sub-skill 2.3
-#* Skill 3
 
 Publications
 ======
 In progress...
-  #<ul>{% for post in site.publications reversed %}
-    #{% include archive-single-cv.html %}
-  #{% endfor %}</ul>
-  
-#Talks
-#======
-  #<ul>{% for post in site.talks reversed %}
-    #{% include archive-single-talk-cv.html  %}
-  #{% endfor %}</ul>
-  
-#Teaching
-#======
-  #<ul>{% for post in site.teaching reversed %}
-    #{% include archive-single-cv.html %}
-  #{% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
